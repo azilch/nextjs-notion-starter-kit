@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'cb530ff4a03e4574aee6d2552afb19a2',
+  rootNotionPageId: '07ea38c8733b4364aebc5758f516feec',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'tangtang的网站',
-  domain: 'https://www.notion.so/cb530ff4a03e4574aee6d2552afb19a2',
+  domain: 'https://platinum-tree-983.notion.site/07ea38c8733b4364aebc5758f516feec',
   author: 'tangtang',
 
   // open graph metadata (optional)
